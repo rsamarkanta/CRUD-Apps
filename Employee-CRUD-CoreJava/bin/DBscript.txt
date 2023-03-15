@@ -1,0 +1,8 @@
+#To create database 
+CREATE TABLE `employeedb`.`employee` (
+  `id` INT NOT NULL,
+  `name` VARCHAR(45) NULL,
+  ` salary` INT NULL,
+  `age` INT NULL,
+  `address` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));
