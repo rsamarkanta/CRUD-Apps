@@ -5,9 +5,9 @@ with different concepts like Simple Java Program , Collection API , Simple JDBC 
 
 ## Tech Stack
 
-**Backend:** Core Java , JDBC , JEE , Hibernate , Spring 
+**Backend:** Core Java , JDBC , JEE , Hibernate , SpringBoot,Spring Security,Spring MVC,Spring Data JPA
 
-**Database:** MySQL , Oracle
+**Database:** MySQL , Oracle 
 
 
 ## Content
